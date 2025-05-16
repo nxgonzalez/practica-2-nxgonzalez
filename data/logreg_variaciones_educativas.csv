@@ -1,0 +1,11 @@
+run_id,logreg_C,logreg_max_iter,solver,penalty
+practica_01,0.01,400,liblinear,l2
+practica_02,1.12,300,lbfgs,l2
+practica_03,2.23,500,liblinear,l2
+practica_04,3.34,200,liblinear,l2
+practica_05,4.45,300,liblinear,l2
+practica_06,5.5600000000000005,500,lbfgs,l2
+practica_07,6.67,300,lbfgs,l2
+practica_08,7.78,500,lbfgs,l2
+practica_09,8.89,400,lbfgs,l2
+practica_10,10.0,200,lbfgs,l2
